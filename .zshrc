@@ -1,0 +1,10 @@
+alias S='sudo'
+alias s='sudo apt-get install'
+alias update='sudo apt-get update'
+alias remove='sudo apt-get remove'
+alias zconf='subl ~/.zshrc'
+alias -s {avi,mpeg,mpg,mov,m2v}=mplayer
+alias -s {mp3,ogg,flac}=mocp
+alias -s {bmp,jpg,jpeg,gif,png}=photoqt
+alias -s {cpp, h, rb, txt}=subl
+alias pkglist='dpkg --get-selections'
